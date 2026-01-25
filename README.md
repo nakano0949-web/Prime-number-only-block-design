@@ -29,7 +29,7 @@
 
 //283	293	                                 
 
-const p = 173
+const p = 3
 
 const q = p**2+p+1
 
