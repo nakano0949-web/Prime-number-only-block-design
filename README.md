@@ -1,4 +1,4 @@
-# Prime-number-only-block-design
+# Block designs of projective and affine planes of prime order only
 <script  language="javascript" type="text/javascript">
 
 //素数p 300以下一覧
